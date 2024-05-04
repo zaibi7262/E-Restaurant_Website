@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\cart\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\cart\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\items\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\items\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\models\\trackexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\models\\trackexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\controllers\\itemsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\controllers\\itemsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\shared\\_layout_start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\shared\\_layout_start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\mappingconfiguration\\munchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\mappingconfiguration\\munchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|c:\\users\\shahzaib mustafa\\downloads\\compressed\\erestaurant-foodwebsite-main\\erestaurant-foodwebsite-main\\munch\\munch\\migrations\\20231203080502_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C681BD23-ADEE-43A7-9C11-D292545C5320}|Munch\\Munch.csproj|solutionrelative:munch\\migrations\\20231203080502_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAUwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T11:38:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Cart\\All.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Cart\\All.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Cart\\All.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Cart\\All.cshtml",
+              "ViewState": "AQIAAFkAAAAAKTMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T11:38:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Munch\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\CartItem.cs",
+              "RelativeToolTip": "Munch\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:37:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Munch\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\Item.cs",
+              "RelativeToolTip": "Munch\\Models\\Item.cs",
+              "ViewState": "AQIAAAkAAAAA5v//////vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:34:24.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrackExpense.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\TrackExpense.cs",
+              "RelativeDocumentMoniker": "Munch\\Models\\TrackExpense.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\TrackExpense.cs",
+              "RelativeToolTip": "Munch\\Models\\TrackExpense.cs",
+              "ViewState": "AQIAAAIAAAASMjMzMzM7wBAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:30:42.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T21:07:43.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Munch\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Munch\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:18:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemsManageController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\ItemsManageController.cs",
+              "RelativeDocumentMoniker": "Munch\\Controllers\\ItemsManageController.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\ItemsManageController.cs",
+              "RelativeToolTip": "Munch\\Controllers\\ItemsManageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:18:44.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Munch\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Munch\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAABYAAABAZmZmZmYswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:18:40.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Items\\All.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Items\\All.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Items\\All.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Items\\All.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAQwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:03:54.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Program.cs",
+              "RelativeDocumentMoniker": "Munch\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Program.cs",
+              "RelativeToolTip": "Munch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:49:13.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Munch\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Models\\Login.cs",
+              "RelativeToolTip": "Munch\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:42:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\appsettings.json",
+              "RelativeDocumentMoniker": "Munch\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\appsettings.json",
+              "RelativeToolTip": "Munch\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T18:55:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Munch\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Munch\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAABgZWZmZmYkwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:01:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:50:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAIAAACgMjMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:58:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Munch\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\appsettings.Development.json",
+              "RelativeToolTip": "Munch\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T18:55:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout_start.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Shared\\_Layout_start.cshtml",
+              "RelativeDocumentMoniker": "Munch\\Views\\Shared\\_Layout_start.cshtml",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Views\\Shared\\_Layout_start.cshtml",
+              "RelativeToolTip": "Munch\\Views\\Shared\\_Layout_start.cshtml",
+              "ViewState": "AQIAAG8AAADAzMzMzIwjwAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:50:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MunchProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\MappingConfiguration\\MunchProfile.cs",
+              "RelativeDocumentMoniker": "Munch\\MappingConfiguration\\MunchProfile.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\MappingConfiguration\\MunchProfile.cs",
+              "RelativeToolTip": "Munch\\MappingConfiguration\\MunchProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:02:16.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Startup.cs",
+              "RelativeDocumentMoniker": "Munch\\Startup.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Startup.cs",
+              "RelativeToolTip": "Munch\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAMzMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:03:14.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20231203080502_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Migrations\\20231203080502_initial.cs",
+              "RelativeDocumentMoniker": "Munch\\Migrations\\20231203080502_initial.cs",
+              "ToolTip": "C:\\Users\\Shahzaib Mustafa\\Downloads\\Compressed\\ERestaurant-FoodWebsite-main\\ERestaurant-FoodWebsite-main\\Munch\\Munch\\Migrations\\20231203080502_initial.cs",
+              "RelativeToolTip": "Munch\\Migrations\\20231203080502_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:55:23.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
